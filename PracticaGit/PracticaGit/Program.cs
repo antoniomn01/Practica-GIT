@@ -9,10 +9,9 @@
             int b = 2;
             Console.WriteLine(a + b);
 
-            for (int i = 0; i < a; i--)
+            for (int i = 0; i < a; i++)
             {
                 Console.WriteLine(i);
-                i++;
             }
         }
             
